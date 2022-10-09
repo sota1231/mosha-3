@@ -38,6 +38,9 @@
     .layout{
         display: block;
     }
+    .main-textarea p{
+        font-size:14px;
+    }
 
     /*---------------------------*/
     .footer-boxs{
