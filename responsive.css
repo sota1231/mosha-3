@@ -1,0 +1,66 @@
+@media(max-width:770px){
+    header{
+        
+    }
+    .title{
+        font-size: 14px;
+        padding: 5px 0px 5px 10px;
+    }
+    .header-nav-list{
+        overflow-x: scroll;
+    }
+    .header-nav-list a{
+        text-decoration: none;
+        display: block;
+        color:white;
+        padding: 5px 65px 5px 0px;
+        font-size: 6px;
+    }
+    .header-nav-list li{
+        font-size: 6px;
+    }
+/*--------------------------------*/
+    .colum-boxs{
+        display: block;
+        margin:0px 10px;
+    }
+    .colum-box{
+        width: 100%;
+        margin:0px 0px;
+    }
+    .colum-textarea >a{
+        display: block;
+        padding: 20px 0 25px 0;
+        text-align: center;
+        color: black;
+        font-size: 14px;
+    }
+    .layout{
+        display: block;
+    }
+
+    /*---------------------------*/
+    .footer-boxs{
+        display: block;
+        width: 95%;
+        margin: auto;
+    }
+    .footer-box{
+        width: 100%;
+        margin:0 0px;
+    }
+    .twitter-logo{
+        padding-bottom: 300px;
+    }
+    .tag{
+        display: block;
+        padding: 30px 0 50px 0;
+        font-size: 12px;
+    }
+     
+}
+@media(max-width:400px){
+    .main-textarea p{
+        font-size: 12px;
+    }
+}
